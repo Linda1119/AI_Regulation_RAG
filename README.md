@@ -1,4 +1,4 @@
-# ⚖️ AI 규제·트렌드 RAG 챗봇
+# AI 규제·트렌드 RAG 챗봇
 
 > **EU AI Act · 국내 AI 기본법 · NIST AI RMF** 등 AI 규제 문서 기반  
 > LangChain + LangGraph + Tavily 웹 검색을 활용한 도메인 특화 질의응답 챗봇
